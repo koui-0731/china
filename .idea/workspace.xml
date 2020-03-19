@@ -7,46 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c90e79de-ce2c-4bc7-9df6-aaedf68199c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/china.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/BaseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/impl/userDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/userDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entiy/Maven_user.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/impl/userServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/userService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/sssServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/china/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/china/WEB-INF/classes/dao/BaseDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/china/WEB-INF/classes/dao/impl/userDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/china/WEB-INF/classes/dao/userDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/china/WEB-INF/classes/entiy/Maven_user.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/china/WEB-INF/classes/service/impl/userServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/china/WEB-INF/classes/service/userService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/china/WEB-INF/classes/servlet/sssServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/china/WEB-INF/classes/test/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/china/WEB-INF/lib/mysql-connector-java-5.1.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/china/WEB-INF/lib/servlet-api-2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/china/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/china/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/china/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dao/BaseDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dao/impl/userDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dao/userDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/entiy/Maven_user.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/service/impl/userServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/service/userService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/servlet/sssServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/test/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -94,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="261">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -475,7 +436,7 @@
       <workItem from="1584202694369" duration="107000" />
       <workItem from="1584247519553" duration="648000" />
       <workItem from="1584331259028" duration="16604000" />
-      <workItem from="1584599853109" duration="1224000" />
+      <workItem from="1584599853109" duration="2290000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1584600935797</created>
@@ -491,11 +452,18 @@
       <option name="project" value="LOCAL" />
       <updated>1584600988442</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第一次提交">
+      <created>1584601240932</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584601240932</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24656000" />
+    <option name="totallyTimeSpent" value="25722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -637,8 +605,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="261">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
         </state>
       </provider>
     </entry>
