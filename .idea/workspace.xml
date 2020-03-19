@@ -56,8 +56,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="227">
               <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+=======
+            <state relative-caret-position="663">
+              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+>>>>>>> 6656f232c8755629a20106533ccb344c185ea305
             </state>
           </provider>
         </entry>
@@ -437,7 +442,7 @@
       <workItem from="1584202694369" duration="107000" />
       <workItem from="1584247519553" duration="648000" />
       <workItem from="1584331259028" duration="16604000" />
-      <workItem from="1584599853109" duration="2290000" />
+      <workItem from="1584599853109" duration="5178000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1584600935797</created>
@@ -460,23 +465,46 @@
       <option name="project" value="LOCAL" />
       <updated>1584601240932</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第一次提交">
+      <created>1584602155744</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584602155744</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第二次提交">
+      <created>1584602429181</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584602429181</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="27288000" />
+=======
+    <option name="totallyTimeSpent" value="28610000" />
+>>>>>>> 6656f232c8755629a20106533ccb344c185ea305
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8831361" visible="true" weight="0.21715818" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8838527" visible="true" weight="0.21715818" />
+>>>>>>> 6656f232c8755629a20106533ccb344c185ea305
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.11686391" side_tool="true" visible="true" weight="0.21715818" />
+      <window_info id="Web" order="7" sideWeight="0.11614731" side_tool="true" visible="true" weight="0.21715818" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.08486563" />
@@ -487,8 +515,13 @@
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32956153" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.04249292" />
+=======
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.9305949" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932975" weight="0.6090652" />
+>>>>>>> 6656f232c8755629a20106533ccb344c185ea305
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.04249292" />
@@ -518,7 +551,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/servlet/student.java" />
@@ -616,8 +650,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="227">
           <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+=======
+        <state relative-caret-position="663">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+>>>>>>> 6656f232c8755629a20106533ccb344c185ea305
         </state>
       </provider>
     </entry>
