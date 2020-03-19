@@ -14,7 +14,6 @@
         </tr>
         <tr>
             <td height="19">这是密码：</td>
->>>>>>> 6656f232c8755629a20106533ccb344c185ea305
             <td height="19"><input type="password" name="pwd"></td>
         </tr>
         <tr >
